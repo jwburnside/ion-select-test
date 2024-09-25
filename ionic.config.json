@@ -1,0 +1,7 @@
+{
+  "name": "Select Test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
