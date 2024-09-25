@@ -1,4 +1,4 @@
-This repo contains a simple default implementation of an ion-select in order to demonstrate a voiceover issue. 
+This repo contains a simple default implementation of an ion-select in order to demonstrate a voiceover issue, tested in iOs 16 and 17.
 
 Issue:
 Toggling between two selected options in the popup (md or ios mode) results in unintended voiceover output.
